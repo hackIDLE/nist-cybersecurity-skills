@@ -2,6 +2,8 @@
 
 # nist-cybersecurity-skills
 
+> **Project moved.** The skill, framework references, and lookup scripts moved to [Open Control Tools](https://github.com/ethanolivertroy/open-ctrl-tools) under `nist-cybersecurity-skills/`. From that directory, open `skills/nist-cybersecurity-skills/SKILL.md` or run `python3 scripts/lookup.py --help`. This archive retains the original Claude Code plugin manifest.
+
 A Claude Code agent skill providing comprehensive NIST cybersecurity framework reference.
 
 ## Frameworks Covered
